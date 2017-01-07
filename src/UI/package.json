@@ -1,0 +1,19 @@
+{
+  "name": "reactxperiment",
+  "version": "1.0.0",
+  "description": "React experiment",
+  "main": "app.js",
+  "scripts": {
+    "test": "testui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rmjheino/ReactXperiment.git"
+  },
+  "author": "rmjpett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmjheino/ReactXperiment/issues"
+  },
+  "homepage": "https://github.com/rmjheino/ReactXperiment#readme"
+}
