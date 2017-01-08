@@ -4,7 +4,8 @@
   "description": "React experiment",
   "main": "app.js",
   "scripts": {
-    "test": "testui"
+    "test": "testui",
+    "dev": "webpack -d"
   },
   "repository": {
     "type": "git",
